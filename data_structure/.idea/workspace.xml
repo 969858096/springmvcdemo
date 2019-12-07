@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a230b6f9-7155-4680-9b01-31761b035896" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/demo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/test/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/test/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/utils/UtilsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/target/classes/test/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/target/classes/test/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/target/classes/utils/UtilsDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/链表/_删除链表中的节点_237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/链表/_反转链表_206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure/array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data_structure/array/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +81,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575712576752</updated>
-      <workItem from="1575712579898" duration="1815000" />
+      <workItem from="1575712579898" duration="2647000" />
+      <workItem from="1575719744403" duration="5326000" />
     </task>
+    <task id="LOCAL-00001" summary="添加动态数组">
+      <created>1575714625898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575714625898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,10 +102,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加动态数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加动态数组" />
   </component>
 </project>
