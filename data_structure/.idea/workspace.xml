@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a230b6f9-7155-4680-9b01-31761b035896" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/链表/_环形链表_141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/链表/_环形链表_141.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,7 @@
       <updated>1575712576752</updated>
       <workItem from="1575712579898" duration="2647000" />
       <workItem from="1575719744403" duration="5538000" />
+      <workItem from="1575783736329" duration="833000" />
     </task>
     <task id="LOCAL-00001" summary="添加动态数组">
       <created>1575714625898</created>
@@ -100,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575739003361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="环形链表">
+      <created>1575783932614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575783932614</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +132,7 @@
     <MESSAGE value="添加动态数组" />
     <MESSAGE value="删除链表中的节点" />
     <MESSAGE value="反转链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="反转链表" />
+    <MESSAGE value="环形链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="环形链表" />
   </component>
 </project>

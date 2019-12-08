@@ -13,7 +13,7 @@ public class _环形链表_141 {
         }else{
             ListNode slow = head;
             ListNode fast = head.next;
-            while(fast != null){
+            while(fast != null && fast.next != null){
                 if(fast == slow){
                     return true;
                 }
